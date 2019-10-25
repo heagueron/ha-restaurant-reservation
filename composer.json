@@ -1,0 +1,17 @@
+{
+    "name": "heagueron/dd-oop-reservation",
+    "description": "Awesome OOP Reservation",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hector Aguero",
+            "email": "heagueron@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
